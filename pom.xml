@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>kumg.test</groupId>
     <artifactId>justin-mobile-sdk</artifactId>
-    <version>1.0.0</version>
+    <version>1.5</version>
     <packaging>aar</packaging>
     <description>Kumg Justin aar as package</description>
 </project>
