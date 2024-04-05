@@ -5,6 +5,5 @@
     <groupId>kumg.test</groupId>
     <artifactId>justin-mobile-sdk</artifactId>
     <version>1.8</version>
-    <packaging>aar</packaging>
     <description>Kumg Justin aar as package</description>
 </project>
